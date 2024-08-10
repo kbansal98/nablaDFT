@@ -2,10 +2,16 @@
 
 A Variational Autoencoder (VAE) implementation for processing and modeling Hamiltonian datasets using custom neural network architectures.
 
+<img src="https://github.com/kbansal98/nablaDFT/blob/main/nablaData.jpg" width= "700" height = "400"/>
+
+
+
+
 ## Overview
 
 This project provides a VAE model specifically designed to work with Hamiltonian matrices from the nablaDFT dataset. It includes preprocessing functions, a custom neural network implementation, and methods for training and evaluating the model. The goal is to encode Hamiltonian data into a latent space and then reconstruct it, making it useful for tasks such as anomaly detection, data compression, or generating new samples.
 
+<img src="https://github.com/kbansal98/nablaDFT/blob/main/architecture.jpg" width="200" height="400" />,      <img src="https://github.com/kbansal98/nablaDFT/blob/main/generalvaearch.png" width= "500" height = "400"/>
 ## Features
 
 - **Data Processing**: Function to preprocess and split datasets into training and testing sets.
